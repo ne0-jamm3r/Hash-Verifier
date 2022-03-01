@@ -20,7 +20,7 @@
 
 ### Executable File:
 
-<a href="dist/hash_verifier.exe">hash_verifier.exe</a>
+<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/dist/hash_verifier.exe">hash_verifier.exe</a>
 MD5 CheckSum: C68677619C7D1D758648FD02534DEE6C
 
 ---

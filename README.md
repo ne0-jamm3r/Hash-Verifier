@@ -20,7 +20,7 @@
 
 ### Windows Installer:
 
-<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/hash%20verifier%20setup.exe">hash verifier setup.exe</a>
+<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/hash_verifier_setup.exe">hash verifier setup.exe</a>
 
 MD5 CheckSum: ACF7FE2AFA800176AB1C4708DDBDE1C8
 

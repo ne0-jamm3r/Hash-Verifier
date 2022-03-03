@@ -18,11 +18,11 @@
 <img src="photo/app2.png" width="340">
 <img src="photo/verified.png" width="200">
 
-### Executable File:
+### Windows Installer:
 
-<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/dist/hash_verifier.exe">hash_verifier.exe</a>
+<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/hash\ verifier\ setup.exe">hash verifier setup.exe</a>
 
-MD5 CheckSum: B2F2E572F11C24BDBD69D97DB97ADADB
+MD5 CheckSum: ACF7FE2AFA800176AB1C4708DDBDE1C8
 
 ---
 #### Compiling from source code

@@ -20,14 +20,14 @@
 
 ### Windows Installer:
 
-<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/hash\ verifier\ setup.exe">hash verifier setup.exe</a>
+<a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/hash%20verifier%20setup.exe">hash verifier setup.exe</a>
 
 MD5 CheckSum: ACF7FE2AFA800176AB1C4708DDBDE1C8
 
 ---
 #### Compiling from source code
 ```
-pyinstaller --onefile --icon=logo.ico --clean hash_verifier.py
+pyinstaller --onefile -w hash_verifier.py
 ```
 ***
 _Please fork me!_

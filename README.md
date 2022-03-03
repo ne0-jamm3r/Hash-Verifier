@@ -21,14 +21,14 @@
 ### Executable File:
 
 <a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/dist/hash_verifier.exe">hash_verifier.exe</a>
-MD5 CheckSum: C68677619C7D1D758648FD02534DEE6C
+
+MD5 CheckSum: B2F2E572F11C24BDBD69D97DB97ADADB
 
 ---
 #### Compiling from source code
 ```
-pyinstaller --onefile -w hash_verifier.py 
+pyinstaller --onefile --icon=logo.ico --clean hash_verifier.py
 ```
-Then copy-past icon file to next to exe file.
 ***
 _Please fork me!_
 

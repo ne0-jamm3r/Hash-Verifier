@@ -22,7 +22,7 @@
 
 <a href="https://github.com/ne0-jamm3r/Hash-Verifier/raw/main/hash_verifier_setup.exe">hash verifier setup.exe</a>
 
-MD5 CheckSum: ACF7FE2AFA800176AB1C4708DDBDE1C8
+MD5 CheckSum: A311E0855524971AC13DFE0FA8A40487
 
 ---
 #### Compiling from source code

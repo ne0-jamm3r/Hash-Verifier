@@ -26,7 +26,7 @@ class Window():
 
         def verify():
             file_hash = hasher.get_filehash(self.file_path.get(), self.spin.get().lower())
-            if file_hash == self.input_hash.get():
+            if file_hash == self.input_hash.get().lower():
                 messagebox.showinfo(message="Signature Verified", title="Operation Complete")
             else:
                 messagebox.showerror(message="Signature Could Not Be Verified", title="Operation Complete")

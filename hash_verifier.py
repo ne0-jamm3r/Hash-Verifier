@@ -57,7 +57,7 @@ class Window():
         self.hash_select.grid(column=0, row=2, sticky=(W, E))
 
         #ALGORITHM COMBOBOX
-        self.spin = ttk.Combobox(self.container, values=hasher.ALGORITHMS)
+        self.spin = ttk.Combobox(self.container, values=hasher.ALGORITHMS, state='readonly')
         self.spin.current(0)
         self.spin.grid(column=1, row=2, sticky=(W), padx=10)
 
